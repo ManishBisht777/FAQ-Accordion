@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Url](https://your-solution-url.com)
-- Live Site URL: [Live Url](https://your-live-site-url.com)
+- Solution URL: [Solution Url](https://www.frontendmentor.io/profile/manishbisht9711)
+- Live Site URL: [Live Url](https://manishbisht777.github.io/FAQ-Accordion/)
 
 ## My process
 
@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Manish Bisht](https://twitter.com/manishbisht9711)
+- Website - [Manish Bisht](https://manishbishtportfolio.netlify.app/)
 - Frontend Mentor - [@manisbisht9711](https://www.frontendmentor.io/profile/manishbisht9711)
 - Twitter - [@manishbisht9711](https://twitter.com/manishbisht9711)
